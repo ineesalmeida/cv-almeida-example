@@ -1,0 +1,4 @@
+baseURL = "http://ines-almeida.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "cv-almeida"

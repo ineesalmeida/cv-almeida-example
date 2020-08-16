@@ -1,0 +1,14 @@
+.avatar {
+    display: block;
+
+    &__img {
+        object-fit: cover;
+        width: 100%;
+        overflow: hidden;
+        border-radius: 50%;
+
+        &:hover {
+            size: 110%;
+        }
+    }
+}
