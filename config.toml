@@ -1,4 +1,4 @@
-baseURL = "http://ines-almeida.com/"
+baseURL = "http://ines-almeida.com/cv/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cv-almeida"
