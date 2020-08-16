@@ -12,7 +12,7 @@
     &__right {
         position: absolute;
         float: right;
-        width: 99% - $width-left-col;   
+        width: $width-right-col;   
         background-color: $color-right-col;
         height: 100%;
         padding: 2rem 3rem;
