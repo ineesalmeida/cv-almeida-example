@@ -1,6 +1,6 @@
 baseURL = "cv/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Inês Almeida - CV"
 theme = "cv-almeida"
 
 [params]
