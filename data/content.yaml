@@ -14,7 +14,8 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Portugal
 
-Profile: When I’m not working, I write Python scripts and design websites for fun. When I’m working, I try to do the same. I am always up for a challenge. In the past year, I have designed websites, written a neuroscience paper, developed apps with python and built a computer game from scratch. I am a very focused person whose laptop is full of post-its to keep my tasks organized.
+Profile: When I’m not working, I write Python scripts and design websites for fun. When I’m working, I try to do the same. I see myself as a versatile hard-worker that is passionate about learning new skills and to be useful in the work environment.
+# Just in the past year, I have designed 4 websites, written a neuroscience paper, developed a couple of apps with python frameworks and built a small video game from scratch.
 
 Experience:
   - Employer: Perspectum Diagnostics
@@ -24,38 +25,41 @@ Experience:
         Date: Jan 2020 - Present
         Details:
           - Implemented peer-reviewed features for a Django web portal
-          - Created and released Python packages of use to other teams
+          - Created, documented and released Python packages to be used by other teams
+          - Communicated with stakeholders, gathered requirements and divided work into digesteable tasks to get new features out
+          - Built CI pipelines in Jenkins and Bitbucket Pipelines
           - Implemented REST APIs
-          - Communicated with stakeholders, gathered requirements and divided work into digesteable tasks to get a new features out
-          - Created CI pipelines in Jenkins and Bitbucket Pipelines
           - Wrote easily testable code and thorough unit tests
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+        Badges:
+          ["Python", "Django", "OOP", "Javascript", "HTML", "CSS", "Agile"]
       - Title: Software Tester
         Date: Mar 2019 - Jan 2020
         Details:
           - Designed multiple BDD automated tests for a web portal
+          - Wrote code to run hundreads of load tests in the web portal concurrently
           - Improved the already existing test framework to run tests faster
-          - Implemented and organised test methods in Python using OOP
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+          - Refactored and restructured test functions/methods in Python using OOP principles
+        Badges: ["Python", "BDD", "Selenium", "OOP", "Agile"]
   - Employer: Instituto Gulbenkian de Ciência
     Place: Lisbon, PT
     Positions:
       - Title: Flow Cytometry Resource Specialist
         Date: Jan 2018 - Mar 2019
         Details:
-          - Created databases and unified data for statistical analysis
-          - Automatized laborous report creation and data conversion
-          - Rehabilitated/designed 2 of the institute’s old webpages
-          - Built a game to introduce the general public to flow cytometry
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+          - Automatized laborous report creation and data conversion tasks
+          - Unified data from thousands of excel spreadsheets for statistical analysis
+          - Rehabilitated 2 of the institute’s old websites
+          - Built a game in Unity/C# to introduce the general public to flow cytometry
+        Badges: ["Python", "HTML", "CSS", "Javascript", "C#/Unity"]
   - Employer: Institute of Neural Engineering
     Place: Graz, AT
     Positions:
       - Title: Master's Thesis Research Intern
         Date: Oct 2016 - Jun 2017
         Details:
-          - Published: Reinmar J. Kobler & Inês Almeida, Andreea I. Sburlea, Gernot R. Müller-Putz (2020). Using machine learning to reveal the population vector from EEG signals
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Designed and developed an experimental paradigm, acquired and analysed data
+          - "Published: Reinmar J. Kobler & Inês Almeida, Andreea I. Sburlea, Gernot R. Müller-Putz (2020). Using machine learning to reveal the population vector from EEG signals"
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
 
 Education:
   - Course: BSc & MSc in Biomedical Engineering and Biophysics

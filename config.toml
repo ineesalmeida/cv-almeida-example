@@ -1,10 +1,14 @@
 baseURL = "cv/"
 languageCode = "en-us"
+theme = "almeida-cv"
 title = "Inês Almeida - CV"
-theme = "cv-almeida"
 
 [params]
-colorPrimary = "#e3bfb8"
-colorPrimaryText = "#fff"
+colorDark = "#666"
+colorLight = "#fff"
 colorPageBackground = "#ddd"
+colorPrimary = "#D5A9A0"
+colorPrimaryText = "#fff"
 colorRightColumnBackground = "#f5f5f5"
+colorSecondary = "#a9a9a9"
+pages = 1
