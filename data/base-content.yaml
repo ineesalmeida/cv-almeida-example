@@ -1,0 +1,120 @@
+BasicInfo:
+  FirstName: Inês
+  LastName: Almeida
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +44 786 909 4999
+    - Icon: fas fa-envelope
+      Info: contact@ines-almeida.com
+    - Icon: fas fa-globe
+      Info: ines-almeida.com
+    - Icon: fab fa-linkedin-in
+      Info: in/ines-de-almeida
+    - Icon: fas fa-map-marker-alt
+      Info: Portugal
+
+Profile: When I’m not working, I write Python scripts and design websites for fun. When I’m working, I try to do the same. I see myself as a versatile hard-worker that is passionate about learning new skills and to be useful in the work environment.
+# Just in the past year, I have designed 4 websites, written a neuroscience paper, developed a couple of apps with python frameworks and built a small video game from scratch.
+
+Experience:
+  - Employer: Perspectum Diagnostics
+    Place: Oxford, UK
+    Positions:
+      - Title: Software Engineer
+        Date: Jan 2020 - Present
+        Details:
+          - Implemented peer-reviewed features for a Django web portal
+          - Created, documented and released Python packages to be used by other teams
+          - Communicated with stakeholders, gathered requirements and divided work into digesteable tasks to get new features out
+          - Built CI pipelines in Jenkins and Bitbucket Pipelines
+          - Implemented REST APIs
+          - Wrote easily testable code and thorough unit tests
+        Badges:
+          ["Python", "Django", "OOP", "Javascript", "HTML", "CSS", "Agile"]
+      - Title: Software Tester
+        Date: Mar 2019 - Jan 2020
+        Details:
+          - Designed multiple BDD automated tests for a web portal
+          - Wrote code to run hundreads of load tests in the web portal concurrently
+          - Improved the already existing test framework to run tests faster
+          - Refactored and restructured test functions/methods in Python using OOP principles
+        Badges: ["Python", "BDD", "Selenium", "OOP", "Agile"]
+  - Employer: Instituto Gulbenkian de Ciência
+    Place: Lisbon, PT
+    Positions:
+      - Title: Flow Cytometry Resource Specialist
+        Date: Jan 2018 - Mar 2019
+        Details:
+          - Automatized laborous report creation and data conversion tasks
+          - Unified data from thousands of excel spreadsheets for statistical analysis
+          - Rehabilitated 2 of the institute’s old websites
+          - Built a game in Unity/C# to introduce the general public to flow cytometry
+        Badges: ["Python", "HTML", "CSS", "Javascript", "C#/Unity"]
+  - Employer: Institute of Neural Engineering
+    Place: Graz, AT
+    Positions:
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Designed and developed an experimental paradigm, acquired and analysed data
+          - "Published: Reinmar J. Kobler & Inês Almeida, Andreea I. Sburlea, Gernot R. Müller-Putz (2020). Using machine learning to reveal the population vector from EEG signals"
+        Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
+
+Education:
+  - Course: BSc & MSc in Biomedical Engineering and Biophysics
+    Place: University of Lisbon
+    Date: Sep 2012 - Nov 2017
+    Details: MSc grade 17/20 (ECTS equiv. A)<br>Master’s thesis 19/20 (ECTS equiv. A)
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML (including Jinja)
+      - Javascript
+      - CSS
+      - SASS
+      - SQL
+      - C#
+      - Bash
+      - MATLAB
+  - Family: Frameworks
+    Items:
+      - Django
+      - Flask
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+      - AWS
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - LaTeX
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: Spanish
+    Level: B1
+  - Name: German
+    Level: B1
+
+Diplomas:
+  - ISTQB Tester Certification (2019)
+  - Museum Instructor (2016)
+  - English Cambridge CAE (2009)
+
+Interests:
+  - Bouldering
+  - Cooking
+  - Windsurfing
+  - Bossa Nova
+  - Design
+  - Languages
