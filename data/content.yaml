@@ -4,7 +4,7 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 786 909 4999
+      Info: +351 93 175 9181
     - Icon: fas fa-envelope
       Info: contact@ines-almeida.com
     - Icon: fas fa-globe
@@ -14,8 +14,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Portugal
 
-Profile: When I’m not working, I write Python scripts and design websites for fun. When I’m working, I try to do the same. I see myself as a versatile hard-worker that is passionate about learning new skills and to be useful in the work environment.
-# Just in the past year, I have designed 4 websites, written a neuroscience paper, developed a couple of apps with python frameworks and built a small video game from scratch.
+Profile: I am a Biomedical Engineer by degree and a Developer by affinity. I see myself as a versatile hard worker that enjoys being useful in the work environment. I actively try to solve problems and I take responsibility for the work I do. As a Software Engineer, my experience in Test Engineering and data processing made me a better developer. I'm particularly interested in this position for its chance to merge both my interest in Software Development and Biomedical data.
 
 Experience:
   - Employer: Perspectum Diagnostics
@@ -36,9 +35,9 @@ Experience:
         Date: Mar 2019 - Jan 2020
         Details:
           - Designed multiple BDD automated tests for a web portal
-          - Wrote code to run hundreads of load tests in the web portal concurrently
+          - Wrote code to concurrently run hundreads of load tests in the web portal
           - Improved the already existing test framework to run tests faster
-          - Refactored and restructured test functions/methods in Python using OOP principles
+          - Refactored and restructured test steps using OOP principles
         Badges: ["Python", "BDD", "Selenium", "OOP", "Agile"]
   - Employer: Instituto Gulbenkian de Ciência
     Place: Lisbon, PT
@@ -57,7 +56,7 @@ Experience:
       - Title: Master's Thesis Research Intern
         Date: Oct 2016 - Jun 2017
         Details:
-          - Designed and developed an experimental paradigm, acquired and analysed data
+          - Designed and developed an experimental paradigm, and acquired and analysed neural data
           - "Published: Reinmar J. Kobler & Inês Almeida, Andreea I. Sburlea, Gernot R. Müller-Putz (2020). Using machine learning to reveal the population vector from EEG signals"
         Badges: ["Python", "MATLAB", "Data Processing", "Paradigm Design"]
 
@@ -90,7 +89,6 @@ Skills:
       - Git
       - Docker
       - Jenkins
-      - AWS
   - Family: Misc
     Items:
       - Adobe Tools
@@ -113,8 +111,8 @@ Diplomas:
 
 Interests:
   - Bouldering
-  - Cooking
   - Windsurfing
+  - Cooking
   - Bossa Nova
   - Design
   - Languages
